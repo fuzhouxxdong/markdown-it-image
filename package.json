@@ -1,0 +1,20 @@
+{
+  "name": "markdown-it-image",
+  "version": "1.0.0",
+  "description": "markdown image",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "fuzhouxxdong",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.4.0",
+    "jsdom": "^14.0.0",
+    "markdown-it": "^8.4.2",
+    "markdown-it-testgen": "^0.1.5"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.2"
+  }
+}
