@@ -47,7 +47,7 @@ markdown:
 ```
 @[testt](https://raw.githubusercontent.com/diycat/img/master/1111111.jpg)
 ```
-图片链接是通过[diycat](diycat.github.io)生成,效果请看[schmaltzy](https://schmaltzy.me/2019/04/10/handwritten-and-hand-drawn/)
+图片链接是通过[diycat](https://diycat.github.io)生成,效果请看[schmaltzy](https://schmaltzy.me/2019/04/10/handwritten-and-hand-drawn/)
 
 ### License
 
